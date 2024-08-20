@@ -1,4 +1,6 @@
-# GRPC with VCPKG
+# Minimal gRPC with VCPKG
+
+This is an example of using an in-repo `vcpkg` to handle the dependencies of a gRPC server/client.
 
 ## Setup
 

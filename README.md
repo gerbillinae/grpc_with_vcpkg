@@ -11,7 +11,7 @@ git submodule update --init --recursive
 
 Build `vcpkg`:
 ```shell
-source ./vcpkg/bootstrap-vcpkg.sh
+./vcpkg/bootstrap-vcpkg.sh
 ```
 
 ## Install dependencies with `vcpkg`

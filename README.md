@@ -55,4 +55,4 @@ You can kill the server by typing `fg` then `Ctrl-C`
 ## Conclusion
 
 Using an in-tree vcpkg is fool-proof, but isn't great for automated builds where the dependencies do not change often.
-
+For automated builds the `vcpkg` and `vcpkg_installed` directories can be symlinked in.
